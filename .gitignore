@@ -1,0 +1,10 @@
+# Never commit wordlists, credentials or VM files
+passwords.txt
+*.txt.bak
+*.vmdk
+*.vdi
+*.iso
+*.ova
+*.key
+*.pem
+client.keys
